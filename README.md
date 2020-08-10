@@ -4,3 +4,4 @@ Node.js adalah server-side JavaScript . Akhir-akhir ini mungkin Anda sudah mulai
 
 Untuk membuat konsep Node.js jelas kita bisa membandingkannya dengan bahasa server-side biasa seperti PHP. Node.js menggunakan prosedur eksekusi server berbasis event dan bukan eksekusi multithread di PHP.
 
+Berikut adalah laporan dari Tugas Modul 1:
